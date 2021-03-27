@@ -8,4 +8,4 @@ This repo is a quick and dirty port of mutable instruments braids to the rpi pic
 
 You'll also need the to get the [pico playground](https://github.com/raspberrypi/pico-playground) audio examples up and running.
 
-Its possible to send the audio out to pwm, I've just stripped that code out.
+pwm output technically works, but the sample rate is wrong, so it won't sound correct.
